@@ -2,20 +2,17 @@ const votos = [
     {
         id: 1,
         candidatoId: 1,
-        data: "2024-06-01",
-        local: "Seção 1"
-    }
+        votos : 100
+    },
     {
         id: 2,
         candidatoId: 2,
-        data: "2024-06-01",
-        local: "Seção 2"
-    }
+        votos : 150 
+    },
     {
         id: 3,
         candidatoId: 1,
-        data: "2024-06-02",
-        local: "Seção 3"
+        votos : 200
     }   
 ]
 export {votos}
